@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Pushpesh's Test-2 is Runing!</Text>
+      <Text>Pushpesh's Test-2 d1 branch is Runing!</Text>
       <StatusBar style="auto" />
     </View>
   );
